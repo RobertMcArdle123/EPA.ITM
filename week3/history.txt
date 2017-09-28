@@ -1,0 +1,4 @@
+git add history.txt
+git commit -m "history.txt" history.txt
+git push
+
